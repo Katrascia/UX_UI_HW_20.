@@ -1,0 +1,19 @@
+.html {
+    font-size: 16px;
+}
+
+.col-sm {
+    height: 100px;
+    width: 100px;
+    background-color: #2DABEF;
+    color: white;
+    margin: 50px;
+}
+
+.titlecontainer {
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+}
