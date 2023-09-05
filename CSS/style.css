@@ -1,13 +1,16 @@
 .html {
     font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .col-sm {
-    height: 100px;
+    height: 50px;
     width: 100px;
     background-color: #2DABEF;
     color: white;
     margin: 50px;
+    font-size: 30px;
+    text-align: center;
 }
 
 .titlecontainer {
@@ -16,4 +19,63 @@
 
 .card {
     display: inline-block;
+}
+
+.pscard {
+    margin-bottom: 50px;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.researchcard {
+    margin-bottom: 50px;
+    margin-left: 150px;
+}
+.figure-img {
+    width: auto;
+    height: 300px;
+    max-width: 100%;
+}
+
+.figure {
+    margin-left: 150px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.finalimage {
+    max-width: 100%;
+}
+
+.jumbotron {
+    margin-bottom: 50px;
+}
+
+.card-header {
+    font-size: 30px;
+    background-color: #2DABEF;
+    color: white;
+}
+
+.navigation {
+    width: auto;
+    height: 61.2px;
+    background-color: #2DABEF;
+}
+
+.inline-block {
+    display: inline-block;
+    vertical-align: middle;
+    color: white;
+    margin-left: 20px;
+}
+
+.icons {
+    display: inline;
+    vertical-align:middle;
+    padding-left: 800px;
+}
+.logoImg {
+    width: 130px;
+    height: 61px;
 }
